@@ -18,62 +18,62 @@ import org.w3c.dom.Element;
 
 
 public class JsonProtocolFormatter {
-  private JsonProtocolFormatter() {
+    private JsonProtocolFormatter() {
 
-  }
-
-  public static void formatProtocol(List<String> pathsToFiles, String output)
-      throws IOException, ParseException, ParserConfigurationException {
-
-    JSONParser parser = new JSONParser();
-
-    ViolationSnapshot snap = new ViolationSnapshot();
-
-    for (String path : pathsToFiles) {
-      JSONArray arr = (JSONArray) parser.parse(new FileReader(path));
-
-      snap.fillMap(arr);
     }
 
-    snap.sortByValue();
-    formatXmlStructure(snap, output);
-  }
+    public static void formatProtocol(List<String> pathsToFiles, String output)
+        throws IOException, ParseException, ParserConfigurationException {
 
+        JSONParser parser = new JSONParser();
 
-  private static void formatXmlStructure(ViolationSnapshot snapshot, String output)
-      throws ParserConfigurationException {
+        ViolationSnapshot snap = new ViolationSnapshot();
 
-    DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-    dbf.setAttribute(XMLConstants.ACCESS_EXTERNAL_DTD, "");
-    dbf.setAttribute(XMLConstants.ACCESS_EXTERNAL_SCHEMA, "");
+        for (String path : pathsToFiles) {
+            JSONArray arr = (JSONArray) parser.parse(new FileReader(path));
 
-    DocumentBuilder db = dbf.newDocumentBuilder();
+            snap.fillMap(arr);
+        }
 
-    Document doc = db.newDocument();
-
-    //Iterator
-    Iterator<String> it = snapshot.iterator();
-
-    // root elements
-    Element rootElement = doc.createElement("totalStat");
-    doc.appendChild(rootElement);
-
-    while (it.hasNext()) {
-      String key = it.next();
-
-      Element item = doc.createElement("item");
-      rootElement.appendChild(item);
-
-      Element type = doc.createElement("type");
-      item.appendChild(type);
-      type.setTextContent(key);
-
-      Element amount = doc.createElement("amount");
-      item.appendChild(amount);
-      amount.setTextContent(String.valueOf(snapshot.getValue(key)));
+        snap.sortByValue();
+        formatXmlStructure(snap, output);
     }
 
-    Writer.createOutputStream(doc, output);
-  }
+
+    private static void formatXmlStructure(ViolationSnapshot snapshot, String output)
+        throws ParserConfigurationException {
+
+        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+        dbf.setAttribute(XMLConstants.ACCESS_EXTERNAL_DTD, "");
+        dbf.setAttribute(XMLConstants.ACCESS_EXTERNAL_SCHEMA, "");
+
+        DocumentBuilder db = dbf.newDocumentBuilder();
+
+        Document doc = db.newDocument();
+
+        //Iterator
+        Iterator<String> it = snapshot.iterator();
+
+        // root elements
+        Element rootElement = doc.createElement("totalStat");
+        doc.appendChild(rootElement);
+
+        while (it.hasNext()) {
+            String key = it.next();
+
+            Element item = doc.createElement("item");
+            rootElement.appendChild(item);
+
+            Element type = doc.createElement("type");
+            item.appendChild(type);
+            type.setTextContent(key);
+
+            Element amount = doc.createElement("amount");
+            item.appendChild(amount);
+            amount.setTextContent(String.valueOf(snapshot.getValue(key)));
+        }
+
+        Writer.createOutputStream(doc, output);
+    }
 
 }
