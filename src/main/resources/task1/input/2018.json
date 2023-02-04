@@ -1,0 +1,5882 @@
+[
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 150.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 280.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ACCIDENT",
+    "fine_amount": 510.00
+  }
+]

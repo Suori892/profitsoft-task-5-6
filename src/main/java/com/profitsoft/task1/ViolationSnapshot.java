@@ -1,4 +1,4 @@
-package com.profitsoft.task2;
+package com.profitsoft.task1;
 
 import java.util.Comparator;
 import java.util.Iterator;
@@ -13,9 +13,9 @@ public class ViolationSnapshot {
 
     public void fillMap(JSONArray arr) {
         for (Object obj : arr) {
-            JSONObject violation = (JSONObject) obj;
-            String type = (String) violation.get("type");
-            Double amount = (Double) violation.get("fine_amount");
+            var violation = (JSONObject) obj;
+            var type = (String) violation.get("type");
+            var amount = (Double) violation.get("fine_amount");
 
             if (map.containsKey(type)) {
                 map.put(type, map.get(type) + amount);
